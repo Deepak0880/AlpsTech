@@ -56,7 +56,10 @@ AlpsTech is powered by cutting-edge tools for maximum efficiency and scalability
 ---
 ### 🖼️ Screenshots
 <p align="center">
-< img src ="
+  <img src ="https://ik.imagekit.io/izc0n8tdd/Screenshot%202025-04-10%20132754.png?updatedAt=1744273454469" width="45%" />
+  <img src="https://ik.imagekit.io/izc0n8tdd/Screenshot%202025-04-10%20133132.png?updatedAt=1744273453876" width="45%" />
+  <img src="https://ik.imagekit.io/izc0n8tdd/Screenshot%202025-04-10%20133117.png?updatedAt=1744273449772" width="45%" />
+</p>
 
 
 

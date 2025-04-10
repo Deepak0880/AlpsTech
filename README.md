@@ -58,9 +58,6 @@ AlpsTech is powered by cutting-edge tools for maximum efficiency and scalability
 
 
 
-### 🎥 Video Demo
-
-▶️ [Watch Demo Video](#) <!-- Replace # with your demo video link -->
 
 ---
 📁 Project Structure

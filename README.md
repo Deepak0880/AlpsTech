@@ -4,7 +4,7 @@
 
 Whether you are managing a university, coaching center, or e-learning platform, AlpsTech offers a flexible architecture and intuitive interfaces for managing courses, monitoring progress, and tracking academic performance — all in one place.
 
----
+--- 
 
 ## 🌟 Why AlpsTech?
 
